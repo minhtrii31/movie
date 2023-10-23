@@ -1,0 +1,18 @@
+.card-hover {
+  transition: transform 0.5s;
+}
+
+.card-hover:hover {
+  background-color: #2f2b3a !important;
+  transform: scale(1.05);
+}
+
+.arrow-icon {
+  font-size: 30px;
+  align-items: center;
+  cursor: pointer;
+}
+.arrow-icon:hover {
+  color: #a688fa;
+  transition: all 0.5s;
+}

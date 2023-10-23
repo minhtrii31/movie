@@ -1,0 +1,10 @@
+.nav-link {
+  color: #fff !important;
+}
+.nav-link:hover {
+  color: #a688fa !important;
+}
+.navbar-nav .dropdown-menu {
+  position: absolute !important;
+  top: 40px;
+}

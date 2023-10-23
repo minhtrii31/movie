@@ -1,0 +1,11 @@
+.detail-container {
+  background-color: rgba(13, 13, 13, 0.9);
+  border-radius: 20px;
+}
+.detail-container > div,
+.detail-container > p {
+  color: #8b8b8b;
+}
+.genre-container {
+  pointer-events: none;
+}

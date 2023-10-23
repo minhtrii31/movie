@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap");
+.App {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  /* background-color: #121212; */
+  background-color: #000;
+  color: #fff;
+}
+.buttonStyle {
+  background-color: #a388f8 !important;
+  color: black !important;
+  font-weight: 500 !important;
+}
+.buttonStyle:hover {
+  background-color: #9171f8 !important;
+}
+strong {
+  cursor: pointer;
+  text-decoration: none;
+  color: #fff;
+}
+strong:hover {
+  color: #a388f8;
+}
+.header {
+  color: #fff;
+  letter-spacing: 2px;
+  margin: 15px 0;
+  display: flex;
+  justify-content: space-between;
+}
