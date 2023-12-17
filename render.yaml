@@ -1,0 +1,7 @@
+# render.yaml
+
+name: Mvie
+buildCommand: |
+  npm rebuild bcrypt --build-from-source
+  npm start
+startCommand: npm start
